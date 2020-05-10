@@ -1,13 +1,9 @@
 # ITC-Apple-Website
-ITC Assignment #1:
+ITC Assignment #1: <br/>
+Mock-up of Apple landing page as of 30-Oct-2019 <br/>
 
-Mock-up of Apple landing page as of 30-Oct-2019
+<br/>Apple's landing page on assignment date: <br/>
+http://web.archive.org/web/20191030214317/https://www.apple.com/ <br/>
 
-Apple's landing page on assignment date:
-
-http://web.archive.org/web/20191030214317/https://www.apple.com/
-
-
-My work:
-
+<br/>My work: <br/>
 https://janetranada.github.io/ITC-Apple-Website/
